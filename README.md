@@ -19,7 +19,7 @@ For this lab, lets create a back end server that renders data for TV shows, deta
 - There is no limit to what you can do with each, but take some time to think of what your data should look like for each tv show - Name? Episode Length? Description... what else will you want to add?
 -  Your functions to view Index and Show routes for each genre must be tucked into a Controllers directory, with a file for each genre
 
-![](https://hips.hearstapps.com/esquire/assets/16/32/1470682952-simpsons-tv.jpg)
+![](https://1.bp.blogspot.com/-xcqLOK3aw_g/T8rjFsNDVDI/AAAAAAAACuc/8nhMkGlrXtE/s1600/nice.jpg)
 
 ### Bonus!
 - Filter through your shows by number of episodes, episode length, ratings, or anything else you can think of
