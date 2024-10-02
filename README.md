@@ -14,15 +14,17 @@ For this lab, lets create a back end server that renders data for TV shows, deta
 ### Requirements
 
 - An Express Server with Index and Show routes for at least 3 different data models - Comedies, Documentaries, and Dramas (or anything else you'd like to work on if you have different TV tastes!)
-- At least 3 objects within each Index Route
+- At least 3 TV Series objects within each Index Route
 - The ability to show an individual object by its Id and Name in a respective route for each
-- There is no limit to what you can do with each, but take some time to think of what your data should look like for each tv show - Name? Episode Length? Description... what else will you want to add?
+- There is no limit to what you can do with each, but take some time to think of what your data should look like for each tv show - Name? Description? Date first aired... a boolean for whether the show is still running or not... what else will you want to add?
 -  Your functions to view Index and Show routes for each genre must be tucked into a Controllers directory, with a file for each genre
 
 ![](https://1.bp.blogspot.com/-xcqLOK3aw_g/T8rjFsNDVDI/AAAAAAAACuc/8nhMkGlrXtE/s1600/nice.jpg)
 
 ### Bonus!
-- Filter through your shows by number of episodes, episode length, ratings, or anything else you can think of
+- Filter through your shows by number of episodes, ratings, only currently running shows... or anything else you can think of
 - When you have your Localhost:3001 with all of the necessary routes, attach an HTML/CSS/JS front end to it!
 
   
+### Additional :
+- Anyone who says Family Guy is better than the Simpsons will be immediately removed from this class without hesitation. 
