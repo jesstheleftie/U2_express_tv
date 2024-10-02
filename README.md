@@ -26,6 +26,7 @@ For this lab, lets create a back end server that renders data for TV shows, deta
 - When you have your Localhost:3001 with all of the necessary routes, attach an HTML/CSS/JS front end to it!
 - Have POST, PUT, and DELETE routes set as well. These will not techinically do anything yet, but it will be good practice for when we create true CRUD functionality later this week
 
+![](https://s.yimg.com/ny/api/res/1.2/RDwMGaOLfOAI_Udmo84YyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ4MA--/https://media.zenfs.com/en/buzzfeed_articles_778/b9c22b2e579a4fcd303afc8b497b9280)
   
 ### Additional :
 - Anyone who says Family Guy is better than the Simpsons will be immediately removed from this class without hesitation. 
