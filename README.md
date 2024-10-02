@@ -24,6 +24,7 @@ For this lab, lets create a back end server that renders data for TV shows, deta
 ### Bonus!
 - Filter through your shows by number of episodes, ratings, only currently running shows... or anything else you can think of
 - When you have your Localhost:3001 with all of the necessary routes, attach an HTML/CSS/JS front end to it!
+- Have POST, PUT, and DELETE routes set as well. These will not techinically do anything yet, but it will be good practice for when we create true CRUD functionality later this week
 
   
 ### Additional :
